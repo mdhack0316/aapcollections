@@ -1,4 +1,4 @@
 ---
-- hosts: 44.227.107.21
+- hosts: 34.209.58.102
   roles: 
-  - role: fidelity.myapp.mayank
+  - role: fidelity.testingcollection.training
